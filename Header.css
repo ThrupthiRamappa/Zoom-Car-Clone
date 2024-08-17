@@ -1,0 +1,24 @@
+.header {
+    background: hsl(125, 63%, 66%);
+    color: hsl(0, 4%, 10%);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo h1 {
+    margin: 0;
+  }
+  
+  .nav a {
+    color: hsl(0, 3%, 6%);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  

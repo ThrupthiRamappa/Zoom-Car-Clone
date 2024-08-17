@@ -1,0 +1,39 @@
+.hero {
+    background: url('/public/images/background.jpg') no-repeat center center/cover;
+    color: rgb(99, 54, 46);
+    text-align: center;
+    padding: 100px 20px;
+    font-size: larger;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .hero h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-style: oblique;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .cta-button:hover {
+    background: #0056b3;
+  }
+  
